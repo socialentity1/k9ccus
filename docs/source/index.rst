@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+K9CC - nhà cái Casino uy tín hàng đầu Việt Nam - k9cc.us
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`K9CC <https://k9cc.us/>`_ là website đại diện độc quyền của K9CC, chuyên cung cấp link truy cập chính hãng. Đồng thời, K9CC cung cấp các bài viết giới thiệu chi tiết về các sản phẩm, dịch vụ cá cược của nhà cái, cũng như những phân tích, hướng dẫn và giải đáp thắc mắc cho người chơi về những vấn đề có thể gặp phải khi tham gia cá cược tại đây. Mọi thông tin mà bạn cần biết về nhà cái K9CC đề sẽ có tại K9cc.us.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 16 Trần Thủ Độ, Phú Thạnh, Tân Phú, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0866500210. 
 
-Contents
---------
+Email: k9cc.us@gmail.com. 
 
-.. toctree::
+Website: https://k9cc.us/
 
-   usage
-   api
+Anchor: https://k9cc.us/tac-gia-hoang-phong-vu/
+
+#k9cc #k9 #k9_cc #k9ccus #k9cc_us #nhacaik9cc #k9cccasino
